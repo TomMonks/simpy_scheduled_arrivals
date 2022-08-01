@@ -1,0 +1,12 @@
+name: sim_sched
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3.4.3
+  - jupyterlab-spellchecker=0.7.2
+  - matplotlib=3.5.2
+  - numpy=1.23.1
+  - pandas=1.4.3
+  - pip=20.1.1
+  - python=3.8.12
+  - simpy=4.0.1
